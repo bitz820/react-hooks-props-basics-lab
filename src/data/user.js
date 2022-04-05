@@ -1,10 +1,10 @@
 const user = {
-  name: "Liza",
+  name: "Mark",
   city: "New York",
   bio: "I made this!",
   color: "firebrick",
   links: {
-    github: "https://github.com/liza",
+    github: "https://github.com/bitz820",
     linkedin: "https://www.linkedin.com/in/liza/",
   },
 };
